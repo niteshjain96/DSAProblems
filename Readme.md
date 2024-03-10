@@ -17,3 +17,4 @@ Q-15	Prime Factorization	Basic
 Q-16	GCD and LCM	Basic
 Q-17	Benjamin Bulb	Basic
 Q-18	Pythagoren Triplet	Basic
+Q-
