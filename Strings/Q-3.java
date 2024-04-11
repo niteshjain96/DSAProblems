@@ -6,11 +6,8 @@ public class Main{
         String str=scn.next();
         System.out.println(toggleCase(str));
     }
-
     public static String toggleCase(String str){
-        // Code
         StringBuilder sb=new StringBuilder(str);
-
         for(int i=0;i<sb.length();i++){
             char ch=sb.charAt(i);
 
@@ -24,6 +21,5 @@ public class Main{
             }
         }
         return sb.toString();
-
     }
 }
